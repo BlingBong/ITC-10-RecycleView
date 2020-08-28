@@ -1,0 +1,2 @@
+rootProject.name='SpookBook'
+include ':app'
